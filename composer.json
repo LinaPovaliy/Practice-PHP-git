@@ -13,5 +13,10 @@
             "email": "linapovaliy@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^9.52"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
 }
