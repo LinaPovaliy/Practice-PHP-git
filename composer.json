@@ -1,0 +1,17 @@
+{
+    "name": "linapovaliy/practice-php-git",
+    "description": "practice",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Linapovaliy\\PracticePhpGit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lina",
+            "email": "linapovaliy@mail.ru"
+        }
+    ],
+    "require": {}
+}
